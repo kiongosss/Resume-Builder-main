@@ -1,5 +1,5 @@
-# A+ Resume Builder System
-A+ resume builder is an online tool that you can use to quickly create a resume.
+# AI Resume Builder System
+AI resume builder is an online tool that you can use to quickly create a resume.
 
 # Problem Foundation
 Problem is about the student and working professional who wants to apply for a job and want to build resume but not have much time. The existing system is creating resumes manually either by using word or Google docs
